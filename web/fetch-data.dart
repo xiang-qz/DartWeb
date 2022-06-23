@@ -52,7 +52,7 @@ void _populateFromJson() {
     "valueOfPi": 3.141592,
     "chocolate": true,
     "horoscope": "Cancer",
-    "favoriteThings": ["monkeys", "parrots", "lattes"]
+    "favoriteThings": ["free", "parrots", "moneys"]
   }''';
 
   Map<String, dynamic> jsonData =
